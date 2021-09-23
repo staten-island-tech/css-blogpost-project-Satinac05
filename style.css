@@ -1,0 +1,15 @@
+body { 
+background-color: bisque;
+color: blueviolet;
+font-size: 30px;
+}
+
+h2 {
+
+color: rgb(183, 43, 226);
+}
+
+.Main-Header{
+    color: darkcyan;
+    font-size: 45px;
+}
