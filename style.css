@@ -1,8 +1,7 @@
-.Chips, .sandwich,  {
-    width: 600px;
+.Chips, .Sandwich, .Toilet {
+  max-width: 700px;
   margin-left: 550px;
   background-color: #bebebe;
   padding: 30px 130px 0 30px;
   border: 10px #082c6c;
   text-align: center;}
-
