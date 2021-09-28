@@ -1,8 +1,19 @@
-.Chips, .Sandwich, .Toilet {
+.Chips, .Sandwich, .Toilet, .Water {
   max-width: 700px;
   margin-left: 550px;
   background-color: #bebebe;
   padding: 30px 130px 0 30px;
   border: 10px #082c6c;
-  text-align: center;}
+  text-align: center;
+} 
 
+.Main-Header{
+  font-size: 80px;
+  font: Comic;
+  
+}
+
+.body{
+
+    background-image: url("background.png");
+}
