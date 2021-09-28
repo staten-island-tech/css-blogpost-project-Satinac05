@@ -1,15 +1,8 @@
-body { 
-background-color: bisque;
-color: blueviolet;
-font-size: 30px;
-}
+.Chips, .sandwich,  {
+    width: 600px;
+  margin-left: 550px;
+  background-color: #bebebe;
+  padding: 30px 130px 0 30px;
+  border: 10px #082c6c;
+  text-align: center;}
 
-h2 {
-
-color: rgb(183, 43, 226);
-}
-
-.Main-Header{
-    color: darkcyan;
-    font-size: 45px;
-}
